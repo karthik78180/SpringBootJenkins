@@ -8,6 +8,6 @@ public class MainController {
 
 	@RequestMapping("/jenkin")
 	public String HelloJenkins() {
-		return "SpringBoot Application integrfation to jenkins";
+		return "SpringBoot Application integration to jenkins";
 	}
 }
